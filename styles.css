@@ -313,7 +313,7 @@ h2 {
 .portrait-frame {
   position: relative;
   width: min(420px, 86vw);
-  aspect-ratio: 0.9;
+  aspect-ratio: 1;
   border-radius: 28% 72% 31% 69% / 32% 30% 70% 68%;
   background: linear-gradient(135deg, rgba(43, 85, 110, 0.8), rgba(23, 50, 74, 0.9));
   border: 1px solid rgba(255, 255, 255, 0.16);
